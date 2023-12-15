@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Project_react/static/css/main.3d2deefe.css",
+    "main.js": "/Project_react/static/js/main.dc01bdf0.js",
+    "static/media/video1.mp4": "/Project_react/static/media/video1.304f0f621cbeb2bd15e8.mp4",
+    "static/media/dubai.jpg": "/Project_react/static/media/dubai.a452de80763514775a20.jpg",
+    "static/media/paris.jpg": "/Project_react/static/media/paris.b630e9934db7a0311d35.jpg",
+    "static/media/tangier.jpg": "/Project_react/static/media/tangier.ad6fed7890b8a983feff.jpg",
+    "static/media/airplaneInterior.jpg": "/Project_react/static/media/airplaneInterior.a29cbd689ad1b6101cd8.jpg",
+    "static/media/airplaneWindow.jpg": "/Project_react/static/media/airplaneWindow.b29f69fee8ec95226039.jpg",
+    "static/media/losAngeles.jpg": "/Project_react/static/media/losAngeles.161087570ce87a887440.jpg",
+    "static/media/airplane.png": "/Project_react/static/media/airplane.ed5346af4037e8dace69.png",
+    "static/media/malaga.jpeg": "/Project_react/static/media/malaga.a29dd8afb46c55ba7a2b.jpeg",
+    "static/media/newyork.jpeg": "/Project_react/static/media/newyork.541999db671ae4a5875c.jpeg",
+    "static/media/berline.jpeg": "/Project_react/static/media/berline.7d7fbe1ea7ed5fcef2ae.jpeg",
+    "static/media/marrakech.jpeg": "/Project_react/static/media/marrakech.bc19067f44321a10885c.jpeg",
+    "static/media/profilepic3.jpeg": "/Project_react/static/media/profilepic3.a1b742f3d13e54d92ae7.jpeg",
+    "static/media/profilepic4.jpeg": "/Project_react/static/media/profilepic4.ff0705ac7db6568cf3c9.jpeg",
+    "static/media/profilepic2.jpeg": "/Project_react/static/media/profilepic2.88b6744b7627f81941f1.jpeg",
+    "static/media/profilepic1.jpeg": "/Project_react/static/media/profilepic1.b7da742c14d23c9fb3c7.jpeg",
+    "static/media/slick.svg": "/Project_react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Project_react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Project_react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Project_react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Project_react/index.html",
+    "main.3d2deefe.css.map": "/Project_react/static/css/main.3d2deefe.css.map",
+    "main.dc01bdf0.js.map": "/Project_react/static/js/main.dc01bdf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d2deefe.css",
+    "static/js/main.dc01bdf0.js"
+  ]
+}
